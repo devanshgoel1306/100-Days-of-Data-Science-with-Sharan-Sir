@@ -1,2 +1,2 @@
 # 100-Days-of-Data-Science-with-Sharan-Sir
-Contain day to day task and solution of these tasks
+Program(100 Days of Data Science) is going on Discord Server  
