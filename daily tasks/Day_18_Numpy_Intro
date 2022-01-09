@@ -5,4 +5,8 @@
 * This module is written mostly in C which is a faster language.
 * Numpy is best suited for mathematical and matrix operations.
 
+Reference video
 https://www.youtube.com/watch?v=dnJc24hDv0Q&list=PLH5lMW7dI2qf5TzA5s15w5eCbLmmS199n
+
+Kaggle Notebook
+https://www.kaggle.com/devanshanalyzer/day-18-numpy-intro
