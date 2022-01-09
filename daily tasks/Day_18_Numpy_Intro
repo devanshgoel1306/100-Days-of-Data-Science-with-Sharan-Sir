@@ -1,0 +1,8 @@
+# Intro to NumPy
+* It is considered 30 times faster as compared to list. 
+* The reason behind numpy being so much faster is that it designed with considering latest computer architecture. 
+* Numpy array supports single datatype at a time. 
+* This module is written mostly in C which is a faster language.
+* Numpy is best suited for mathematical and matrix operations.
+
+https://www.youtube.com/watch?v=dnJc24hDv0Q&list=PLH5lMW7dI2qf5TzA5s15w5eCbLmmS199n
